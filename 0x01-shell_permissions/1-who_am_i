@@ -1,2 +1,2 @@
 #!/bin/bash
-/root
+echo "Effective username: $(id -un)"
